@@ -1,4 +1,4 @@
-# 🎮 OmniscientVR Game for Meta Quest 2
+# 🎮 OmniscientVR Game for Meta Quest
 
 **Created with Misheel Sodgerel \(@MisheelSodgerel\) and Soohoon Oh \(@osh0807\)**
 
