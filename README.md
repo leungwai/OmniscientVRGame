@@ -26,6 +26,17 @@ Inspired by "Squid Game", we decided to challenge ourselves by building a 3D VR 
 - I was responsible for the main player controller (hand movement, tracking, manipulating objects, etc.), as well as the tutorial level that teaches the player how to grab and manipulate objects
 
 ## Screenshots
+![Welcome Screen](welcomescreen.png)
+> Welcome Screen
+
+![Level One/Tutorial Level](levelone.png)
+> Level One
+
+![Level Two](leveltwo.png)
+> Level Two
+
+![Level Three](levelthree.png)
+> Level Three
 
 ## To Improve for V2
 - [ ] Add additional levels with increasing difficulty
