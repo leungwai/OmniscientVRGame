@@ -14,8 +14,9 @@ Inspired by "Squid Game", we decided to challenge ourselves by building a 3D VR 
 
 ## Features
 1. 3 separate levels (tutorial level included), with increasing difficulty
-2. Using your controller as a hand to manipulate objects in-game
-3. Omniscience playing sounds at random times, in which the player has to stop or otherwise be eliminated.
+2. Different environments for different levels
+3. Using your controller as a hand to manipulate objects in-game
+4. Omniscience playing sounds at random times, in which the player has to stop or otherwise be eliminated.
 
 ## This Project Showcases: 
 - 🎮 VR Game Development with Unity VR, C# and Meta Quest 2
